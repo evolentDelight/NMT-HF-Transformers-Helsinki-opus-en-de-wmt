@@ -1,0 +1,13 @@
+{
+  "run_id": "exp18_subset50000_lr8e-8_epoch3_lsf0.2_bs32_beams5",
+  "split": "test",
+  "sacrebleu": 31.746156504508992,
+  "num_examples": 785,
+  "num_beams": 5,
+  "max_new_tokens": 128,
+  "length_penalty": 1.0,
+  "early_stopping": true,
+  "max_source_length": 128,
+  "checkpoint_path": "outputs\\checkpoints\\exp18_subset50000_lr8e-8_epoch3_lsf0.2_bs32_beams5",
+  "notes": "Final selected model evaluated once on the held-out test set."
+}

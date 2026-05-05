@@ -1,0 +1,8 @@
+{
+  "final_selected_run_id": "exp18_subset50000_lr8e-8_epoch3_lsf0.2_bs32_beams5",
+  "final_selected_checkpoint_dir": "outputs\\checkpoints\\exp18_subset50000_lr8e-8_epoch3_lsf0.2_bs32_beams5",
+  "selection_metric": "dev_sacrebleu",
+  "selected_dev_sacrebleu": 33.38585783968027,
+  "baseline_dev_sacrebleu": 32.96109890363845,
+  "notes": "Final model selected using development SacreBLEU. The test set was not used for model selection."
+}
